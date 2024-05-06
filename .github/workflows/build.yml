@@ -25,4 +25,4 @@ jobs:
           server: https://rov.base-compl.com
           app: 'svelte'
           token: '${{ secrets.APP_TOKEN }}'
-          image: 'ghcr.io/christophershivers/sveltekit2:latest'
+          image: 'ghcr.io/christophershivers/svelte-deployment-test:latest'
